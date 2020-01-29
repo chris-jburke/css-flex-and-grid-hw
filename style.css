@@ -1,0 +1,32 @@
+body {
+	margin: 0 auto;
+}
+.container-fluid {
+	width: 100%;
+	padding: 0 0;
+
+}
+#large-image {
+	margin-top: 30px;
+	margin-bottom: 15px;
+}
+#large-image2 {
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+.row {
+	margin-left: 0;
+	margin-right: 0;
+}
+.container-fluid div{
+
+}
+.col-sm {
+	padding: auto 0;
+}
+h3 {
+	width: 200px;
+}
+p {
+	width: 200px;
+}
